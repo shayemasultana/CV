@@ -1,0 +1,312 @@
+/* ----------Global CSS  Start---------- */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn:focus,
+.btn:hover {
+    text-decoration: none;
+    box-shadow: none !important;
+}
+
+/* ----------Global CSS  End---------- */
+.left {
+    background-color: #282f39;
+    color: #ffffff;
+    height: 2208px;
+    /*height: 2224px;*/
+}
+
+.profile {
+    width: 60%;
+    height: 10%;
+    margin: 74px;
+    border: 3px solid #53acb2;
+    padding-top: 20px;
+    background-color: #dee1e6;
+}
+
+.left button {
+    width: 80%;
+    border-radius: 0px !important;
+    background-color: #53acb2 !important;
+    border-color: #53acb2 !important;
+    text-align: left !important;
+    margin: 0 auto;
+    display: block;
+}
+
+.info {
+    padding: 65px 36px 25px;
+}
+
+i {
+    color: #53acb2;
+    font-size: 25px;
+}
+
+.info ul {
+    transform: translateY(-33px);
+    margin-bottom: 0;
+    margin-left: 5px;
+}
+
+li {
+    list-style: none;
+    font-weight: 700;
+}
+
+.light {
+    color: #bab7bd;
+    font-size: 13px;
+    font-style: italic;
+    transform: translateY(-3px);
+    font-weight: 400;
+}
+
+.fa-phone {
+    transform: rotate(90deg);
+}
+
+.fa-envelope {
+    transform: translateY(-3px);
+}
+
+a {
+    color: #bab7bd;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+}
+
+a:hover {
+    color: #53acb2;
+    text-decoration: none;
+}
+
+.social {
+    padding: 65px 36px 30px;
+}
+
+.social ul {
+    padding-left: 0;
+    transform: translateY(-4px);
+    margin-left: -5px;
+}
+
+.fa-behance {
+    transform: translateY(-4px);
+}
+
+.expertise {
+    margin: 65px 36px 30px;
+}
+
+.expertise ul {
+    transform: translateY(-31px);
+    margin-bottom: 0;
+    margin-left: 5px;
+}
+
+.expertise img {
+    transform: translateY(-5px);
+}
+
+.personal_skills {
+    margin: 65px 36px 30px;
+}
+
+.personal_skills ul {
+    transform: translateY(-31px);
+    margin-bottom: 0;
+    margin-left: 5px;
+}
+
+.personal_skills img {
+    transform: translateY(-5px);
+}
+
+/* Left Side End*/
+.cv {
+    background-color: #e3e3e5;
+    height: 265px;
+}
+
+.cv button {
+    width: 100%;
+    border-radius: 0px !important;
+    background-color: #53acb2 !important;
+    border-color: #53acb2 !important;
+    text-align: left !important;
+    margin-top: 35px;
+    padding-left: 50px;
+}
+
+.maimuna {
+    padding: 50px;
+}
+
+.maimuna h1 {
+    margin-bottom: 0;
+    color: #282f39;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.maimuna h4 {
+    margin-bottom: 0;
+    color: #53acb2;
+}
+
+.personal {
+    padding: 50px 50px 0;
+    background-color: #f3eeee;
+}
+
+.heading {
+    margin-bottom: 20px;
+}
+
+.heading ul {
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+.heading li {
+    display: inline-block;
+}
+
+.heading h5 {
+    color: #282f39;
+    margin-bottom: 0;
+    font-weight: 700;
+}
+
+.heading span {
+    width: 416px;
+    height: 2px;
+    background: #282f39;
+    display: inline-block;
+    transform: translate(10px, -5px);
+}
+
+.personal p {
+    color: #53acb2;
+    text-align: justify;
+    margin-bottom: 0;
+}
+
+.education {
+    padding: 50px 50px 0;
+    background-color: #f3eeee;
+}
+
+.education span {
+    width: 510px;
+    height: 2px;
+    background: #282f39;
+    display: inline-block;
+    transform: translate(10px, -5px);
+}
+
+.professional {
+    padding: 30px 50px 0;
+    background-color: #f3eeee;
+}
+
+.professional span {
+    width: 478px;
+    height: 2px;
+    background: #282f39;
+    display: inline-block;
+    transform: translate(10px, -5px);
+}
+
+.year {
+    padding-bottom: 20px;
+}
+
+.year button {
+    border-radius: 0;
+    color: #53acb2;
+    border-color: #53acb2;
+}
+
+.year ul {
+    padding-left: 0;
+    display: inline-block;
+    transform: translate(20px, 10px);
+}
+
+.year li {}
+
+.experience_title {
+    padding: 36px 50px 0;
+    background-color: #f3eeee;
+}
+
+.experience_title span {
+    width: 510px;
+    height: 2px;
+    background: #282f39;
+    display: inline-block;
+    transform: translate(10px, -5px);
+}
+
+.color {
+    color: #53acb2;
+    font-size: 13px;
+    font-style: italic;
+    transform: translateY(-3px);
+    font-weight: 400;
+}
+
+.paragraph {
+    color: #bab7bd;
+    font-size: 13px;
+    transform: translateY(-3px);
+    font-weight: 400;
+}
+
+.experience {
+    margin-top: 35px;
+}
+
+.experience button {
+    border-radius: 0;
+    color: #53acb2;
+    border-color: #53acb2;
+}
+
+.experience ul {
+    transform: translate(110px, -43px);
+    margin-bottom: 0;
+}
+
+.web {}
+
+.web button {
+    border-radius: 0;
+    color: #53acb2;
+    border-color: #53acb2;
+}
+
+.web ul {
+    transform: translate(110px, -43px);
+    margin-bottom: 0;
+}
+
+.references {
+    padding: 11px 50px 0;
+    background-color: #f3eeee;
+}
+
+.references span {
+    width: 510px;
+    height: 2px;
+    background: #282f39;
+    display: inline-block;
+    transform: translate(10px, -5px);
+}

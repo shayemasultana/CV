@@ -1,0 +1,392 @@
+@media (max-width: 489.98px) {
+    .profile {
+        width: 45% !important;
+        height: 8% !important;
+        margin: 50px 95px !important;
+    }
+
+    .left button {
+        font-size: 18px;
+    }
+
+    .info {
+        padding: 65px 36px 25px !important;
+    }
+
+    .social {
+        padding: 65px 36px 30px !important;
+    }
+
+    .expertise {
+        margin: 65px 36px 30px !important;
+    }
+
+    .personal_skills {
+        margin: 65px 36px 30px !important;
+    }
+
+    .cv {
+        height: 199px !important;
+    }
+
+    .maimuna {
+        padding: 30px 25px;
+    }
+
+    .maimuna h1 {
+        font-size: 21px !important;
+    }
+
+    .maimuna h4 {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    .heading span {
+        display: none;
+    }
+
+    .education span {
+        display: none;
+    }
+
+    .professional span {
+        display: none;
+    }
+
+    .experience ul {
+        transform: translate(-14px, 13px) !important;
+    }
+
+    experience_title span {
+        display: none;
+    }
+
+    .web ul {
+        transform: translate(-14px, 12px) !important;
+    }
+
+    .paragraph {
+        width: 100%;        
+        padding-bottom: 31px;
+    }
+}
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    .container {
+        overflow: hidden;
+    }
+
+    .profile {
+        width: 45%;
+        height: 10%;
+        margin: 50px 125px;
+    }
+
+    .left button {
+        text-align: center !important;
+    }
+
+    .info {
+        padding: 65px 142px 25px;
+    }
+
+    .social {
+        padding: 65px 40px 30px 148px;
+    }
+
+    .expertise {
+        margin: 65px 143px 30px;
+    }
+
+    .personal_skills {
+        margin: 65px 126px 30px;
+    }
+
+    .left {
+        height: 2185px;
+    }
+
+    .cv {
+        background-color: #e3e3e5;
+        height: 265px;
+    }
+
+    .cv button {
+        text-align: center !important;
+        padding-left: 0;
+    }
+
+    .maimuna h1 {
+        text-align: center;
+        font-size: 35px;
+    }
+
+    .maimuna h4 {
+        text-align: center;
+    }
+
+    .personal {
+        padding: 50px 20px 0;
+    }
+
+    .heading span {
+        width: 179px;
+    }
+
+    .education {
+        padding: 50px 20px 0;
+        background-color: #f3eeee;
+    }
+
+    .education span {
+        width: 272px;
+    }
+
+    .professional {
+        padding: 30px 20px 0;
+    }
+
+    .professional span {
+        width: 242px;
+    }
+
+    .experience_title {
+        padding: 36px 13px 0;
+    }
+
+    .experience_title span {
+        width: 271px !important;
+    }
+
+    .paragraph {
+        width: 73%;
+    }
+
+    .references {
+        padding: 11px 20px 0;
+    }
+
+    .references span {
+        width: 268px !important;
+    }
+
+    .less {
+        transform: translate(93px, -43px) !important;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .container {
+        overflow: hidden;
+    }
+
+    .profile {
+        width: 45%;
+        height: 11%;
+        margin: 60px 140px;
+    }
+
+    .left button {
+        text-align: center !important;
+    }
+
+    .info {
+        padding: 65px 164px 25px;
+    }
+
+    .social {
+        padding: 65px 40px 30px 174px;
+    }
+
+    .expertise {
+        margin: 65px 179px 30px;
+    }
+
+    .personal_skills {
+        margin: 65px 161px 30px;
+    }
+
+    .left {
+        height: 2230px;
+    }
+
+    .cv button {
+        text-align: center !important;
+        padding-left: 0;
+    }
+
+    .maimuna h1 {
+        text-align: center;
+    }
+
+    .maimuna h4 {
+        text-align: center;
+    }
+
+    .heading span {
+        width: 186px;
+    }
+
+    .education span {
+        width: 279px;
+    }
+
+    .professional span {
+        width: 249px;
+    }
+
+    .experience_title span {
+        width: 278px !important;
+    }
+
+    .paragraph {
+        width: 79%;
+    }
+
+    .references span {
+        width: 275px !important;
+    }
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .container {
+        overflow: hidden;
+    }
+
+    .profile {
+        width: 70%;
+        height: 7%;
+        margin: 35px;
+
+    }
+
+    .left button {
+        font-size: 16px;
+    }
+
+    .social ul {
+        margin-left: 14px;
+    }
+
+    .left {
+        height: 2413px;
+    }
+
+    .cv button {
+        padding-left: 20px;
+    }
+
+
+    .maimuna {
+        padding: 50px 20px;
+    }
+
+    .maimuna h1 {
+        font-size: 36px;
+    }
+
+    .personal {
+        padding: 50px 20px 0;
+    }
+
+    .experience_title {
+        padding: 36px 20px 0;
+    }
+
+    .references {
+        padding: 11px 20px 0;
+    }
+
+    .heading span {
+        width: 197px;
+    }
+
+    .education {
+        padding: 50px 20px 0;
+    }
+
+    .education span {
+        width: 290px !important;
+    }
+
+    .professional {
+        padding: 30px 24px 0 20px;
+    }
+
+    .professional span {
+        width: 256px !important;
+    }
+
+    .experience_title span {
+        width: 289px !important;
+    }
+
+    .experience ul {
+        transform: translate(100px, -43px);
+    }
+
+    .web ul {
+        transform: translate(100px, -43px);
+    }
+
+    .paragraph {
+        width: 75%;
+    }
+
+    .references span {
+        width: 286px !important;
+    }
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .container {
+        overflow: hidden;
+    }
+
+    .left {
+        height: 2346px;
+    }
+
+    .profile {
+        width: 65%;
+        height: 9%;
+        margin: 55px;
+    }
+
+    .paragraph {
+        width: 80%;
+    }
+
+    .heading span {
+        width: 296px;
+    }
+
+    .education span {
+        width: 389px !important;
+    }
+
+    .professional span {
+        width: 359px !important;
+    }
+
+    .experience_title span {
+        width: 388px !important;
+    }
+
+    .references span {
+        width: 385px !important;
+    }
+
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    .container {
+        overflow: hidden;
+    }
+}
